@@ -342,3 +342,4 @@ if "df" in st.session_state:
             st.download_button("⬇️ Descargar DOCX editable", data=docx_b, file_name="catalogo_editable.docx", mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document")
 else:
     st.info("Sube las credenciales y carga la hoja 'Catalogo' para generar archivos.")
+    
