@@ -1,1 +1,9 @@
 streamlit
+gspread
+oauth2client
+pandas
+requests
+reportlab
+openpyxl
+pypandoc
+python-docx
